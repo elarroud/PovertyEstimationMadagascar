@@ -1,0 +1,14 @@
+email sent on 4/13/2011
+
+
+Dear DHS GPS Data User,
+
+We are contacting you because you downloaded a previous version of the Madagascar 2008 DHS GPS data.  
+The data named MDGE51FL had substantial problems with the locations of the clusters.  
+This issue was resolved in the data file MDGE52FL. This correction was also included in the data file MDGE53FL.
+Please use these data for any analyses and disregard the previous data file.  
+We apologize for any confusion this may cause you.   
+
+MEASURE DHS
+GIS Team
+gpsrequests@measuredhs.com
